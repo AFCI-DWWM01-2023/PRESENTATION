@@ -6,7 +6,7 @@ Sujet libre.
 Tableau de passage
 | Developpers  | Date          | Sujet |
 | :--------------- |:---------------:| :-----|
-| Jean-Baptiste  |   31 Mars 2023        |  Testeur logiciel |
+| Jean-Baptiste  |   31 Mars 2023        |  Testeur logiciel ✅ |
 | Dylan  | 31 Mars 2023             |   ChatGpt |
 | Maiwenn  | 7 Avril 2023          |    Jeux de role |
 | Adrien  | 7 Avril 2023          |    Intelligence artificielle |
