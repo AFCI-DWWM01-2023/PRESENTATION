@@ -4,5 +4,5 @@ A la fin de la présentation, le ou la stagiaire doit répondre aux questions de
 Sujet libre.  
 
 Tableau de passage
-==================
+------------------
 
