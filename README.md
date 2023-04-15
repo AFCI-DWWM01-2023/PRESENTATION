@@ -7,11 +7,11 @@ Tableau de passage
 | Developpers  | Date          | Sujet |     |
 | :--------------- |:---------------:| :-----| :----: |
 | Jean-Baptiste  |   31 Mars 2023        |  Testeur logiciel  |✅|
-| Dylan  | 31 Mars 2023             |   ChatGpt |
-| Maiwenn  | 7 Avril 2023          |    Jeux de role |
-| Adrien  | 7 Avril 2023          |    Intelligence artificielle |
-| Lucas  | 14 Avril 2023          |    Maladie des yeux |
-| Maxime  | 14 Avril 2023          |    Zonz 51 |
+| Dylan  | 31 Mars 2023             |   ChatGpt |✅|
+| Maiwenn  | 7 Avril 2023          |    Jeux de role |✅|
+| Adrien  | 7 Avril 2023          |    Intelligence artificielle |✅|
+| Lucas  | 14 Avril 2023          |    Maladie des yeux |✅|
+| Maxime  | 14 Avril 2023          |    Zonz 51 |✅|
 | Jayson  | 21 Avril 2023          |    Logiciel qui génère des images |
 | Kévin  | 21 Avril 2023          |    Sécurité informatique - Injection SQL |
 | Christian  | 28 Avril 2023          |    Libre arbitre |
