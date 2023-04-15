@@ -6,7 +6,7 @@ Sujet libre.
 Tableau de passage
 | Developpers  | Date          | Sujet |
 | :--------------- |:---------------:| -----:|
-| Aligné à gauche  |   ce texte        |  Aligné à droite |
-| Aligné à gauche  | est             |   Aligné à droite |
+| Jean-Baptiste  |   31 Mars 2023        |  Testeur logiciel |
+| Dylan  | 31 Mars 2023             |   ChatGpt |
 | Aligné à gauche  | centré          |    Aligné à droite |
 
