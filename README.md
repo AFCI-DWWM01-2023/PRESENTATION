@@ -15,4 +15,5 @@ Tableau de passage
 | Jayson  | 21 Avril 2023          |    Logiciel qui génère des images |
 | Kévin  | 21 Avril 2023          |    Sécurité informatique - Injection SQL |
 | Christian  | 28 Avril 2023          |    Libre arbitre |
+| Valentin  | 28 Avril 2023          |    CNIL |
 
