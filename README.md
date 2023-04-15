@@ -4,7 +4,7 @@ A la fin de la présentation, le ou la stagiaire doit répondre aux questions de
 Sujet libre.  
 
 Tableau de passage
-| Aligné à gauche  | Centré          | Aligné à droite |
+| Developpers  | Date          | Sujet |
 | :--------------- |:---------------:| -----:|
 | Aligné à gauche  |   ce texte        |  Aligné à droite |
 | Aligné à gauche  | est             |   Aligné à droite |
