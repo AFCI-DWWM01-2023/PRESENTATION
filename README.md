@@ -9,7 +9,7 @@ Tableau de passage
 | :--------------- |:---------------:| :-----| :----: |
 | Jean-Baptiste  |   31 Mars 2023        |  Testeur logiciel  |✅|
 | Dylan  | 31 Mars 2023             |   ChatGpt |✅|
-| Maiwenn  | 7 Avril 2023          |    Jeux de role |✅|
+| Maiwenn  | 7 Avril 2023          |    Jeux de rôle |✅|
 | Adrien  | 7 Avril 2023          |    Intelligence artificielle |✅|
 | Lucas  | 14 Avril 2023          |    Maladie des yeux Kératocône |✅|
 | Maxime  | 14 Avril 2023          |    Zonz 51 |✅|
