@@ -12,7 +12,7 @@ Tableau de passage
 | Maiwenn  | 7 Avril 2023          |    Jeux de rôle |✅|
 | Adrien  | 7 Avril 2023          |    Intelligence artificielle |✅|
 | Lucas  | 14 Avril 2023          |    Maladie des yeux Kératocône |✅|
-| Maxime  | 14 Avril 2023          |    Zonz 51 |✅|
+| Maxime  | 14 Avril 2023          |    Zone 51 |✅|
 | Jayson  | 21 Avril 2023          |    Logiciel qui génère des images |✅|
 | Kévin  | 21 Avril 2023          |    Sécurité informatique - Injection SQL |✅|
 | Christian  | 28 Avril 2023          |    Libre arbitre |
