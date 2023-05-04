@@ -15,6 +15,6 @@ Tableau de passage
 | Maxime  | 14 Avril 2023          |    Zone 51 |✅|
 | Jayson  | 21 Avril 2023          |    Logiciel qui génère des images |✅|
 | Kévin  | 21 Avril 2023          |    Sécurité informatique - Injection SQL |✅|
-| Christian  | 28 Avril 2023          |    Libre arbitre |
-| Valentin  | 28 Avril 2023          |    CNIL |
+| Christian  | 28 Avril 2023          |    Libre arbitre |✅|
+| Valentin  | 28 Avril 2023          |    CNIL |✅|
 
