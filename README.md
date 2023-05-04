@@ -17,5 +17,5 @@ Tableau de passage
 | Kévin  | 21 Avril 2023          |    Sécurité informatique - Injection SQL |✅|
 | Christian  | 28 Avril 2023          |    Libre arbitre |✅|
 | Valentin  | 28 Avril 2023          |    CNIL |✅|
-| Kévin  |12 Mai 2023          | "L'attaque man in the middle" |
+| Kévin |12 Mai 2023          | "L'attaque man in the middle" |
 
