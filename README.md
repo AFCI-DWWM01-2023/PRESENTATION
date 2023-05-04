@@ -21,4 +21,9 @@ Tableau de passage
 | Jean-Baptiste  | 12 Mai 2023 | Robot Frame Work |
 | Adrien  | 26 Mai 2023 |   |
 | Maiwenn  | 26 Mai 2023 | Reptils  |
+| Lucas  | 02 Juin 2023 |   |
+| Jayson  | 02 juin 2023 |   |
+| Valentin  | 16 Juin 2023 |   |
+| Christian  | 16 Juin 2023 |   |
+| Maxime  | 16 Juin 2023 |   |
 
