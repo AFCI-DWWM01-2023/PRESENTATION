@@ -18,13 +18,11 @@ Tableau de passage
 | Christian  | 28 Avril 2023          |    Libre arbitre |✅|
 | Valentin  | 28 Avril 2023          |    CNIL |✅|
 | *********  | ********* |*******************************************|*******|
-| Kévin |12 Mai 2023          | "L'attaque man in the middle" |
-| Jean-Baptiste  | 12 Mai 2023 | Robot Frame Work |
-| Adrien  | 26 Mai 2023 |   |
-| Maiwenn  | 26 Mai 2023 | Reptils  |
+| Kévin |12 Mai 2023          | "L'attaque man in the middle" |✅|
+| Jean-Baptiste  | 12 Mai 2023 | Robot Frame Work |✅|
+| Christian  | 26 Mai 2023 | La Vie  |✅|
+| Maiwenn  | 26 Mai 2023 | Les reptiles |✅|
 | Lucas  | 02 Juin 2023 |   |
 | Jayson  | 02 juin 2023 |   |
 | Valentin  | 16 Juin 2023 |   |
-| Christian  | 16 Juin 2023 |   |
-| Maxime  | 16 Juin 2023 |   |
 
