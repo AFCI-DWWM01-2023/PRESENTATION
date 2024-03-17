@@ -2,16 +2,15 @@
 
 Chaque stagiaire doit à son tour réaliser une présentation sous forme de diaporama, d'une durée allant de 10 à 15 minutes. 
  À la fin de la présentation, le stagiaire doit répondre aux questions posées par ses collègues.
-
-Sujet libre.  
+ 
 
 Tableau de passage
 | **Developpers**  | **Date**          | **Sujet** |     |
 | :--------------- |:---------------:| :-----| :----: |
-| Jean-Baptiste  |   31 Mars 2023        |  Testeur logiciel  |✅|
-| Dylan  | 31 Mars 2023             |   ChatGpt |✅|
-| Maiwenn  | 7 Avril 2023          |    Jeux de rôle |✅|
-| Adrien  | 7 Avril 2023          |    Intelligence artificielle |✅|
+| Bérenger  |   08 Mars 2024        |  Georges BOOLE  |✅|
+| tHOMAS  | 08 Mars 2024            |   Apple |✅|
+| Marvin  | 15 Mars 2024         |    MIT |✅|
+| Céline  | 15 Mars 2024          |    Android |✅|
 | Lucas  | 14 Avril 2023          |    Maladie des yeux Kératocône |✅|
 | Maxime  | 14 Avril 2023          |    Zone 51 |✅|
 | Jayson  | 21 Avril 2023          |    Logiciel qui génère des images |✅|
