@@ -11,12 +11,14 @@ Tableau de passage
 | tHOMAS  | 08 Mars 2024            |   Apple |✅|
 | Marvin  | 15 Mars 2024         |    MIT |✅|
 | Céline  | 15 Mars 2024          |    Android |✅|
-| Lucas  | 14 Avril 2023          |    Maladie des yeux Kératocône |✅|
-| Maxime  | 14 Avril 2023          |    Zone 51 |✅|
-| Jayson  | 21 Avril 2023          |    Logiciel qui génère des images |✅|
-| Kévin  | 21 Avril 2023          |    Sécurité informatique - Injection SQL |✅|
-| Christian  | 28 Avril 2023          |    Libre arbitre |✅|
-| Valentin  | 28 Avril 2023          |    CNIL |✅|
+| Axel  | 22 Mars 2024          |    Alan Turing ||
+| Matthias  | 22 Mars 2024          |    IA ||
+| Sarah  | 29 Mars 2024         |    CNIL - RGPD ||
+| Gaëtan  | 29 Mars 2024          |    ADAL ||
+| Rémy  | 05 Avril 2024          |    Crypto-Money ||
+| Romain  | 05 Avril 2024          |    Robotique ||
+| Emeline  | 12 Avril 2024          |    Réalité artificielle ||
+| Ethan  | 12 Avril 2024          |    Les objets connectés ||
 | *********  | ********* |*******************************************|*******|
 | Kévin |12 Mai 2023          | "L'attaque man in the middle" |✅|
 | Jean-Baptiste  | 12 Mai 2023 | Robot Frame Work |✅|
