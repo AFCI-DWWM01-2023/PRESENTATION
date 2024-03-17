@@ -1,6 +1,7 @@
 # Préparation oral
-Les stagiaires doivent chacun à leur tour faire une présentation entre 10 et 15 minutes.  
-A la fin de la présentation, le ou la stagiaire doit répondre aux questions de ses collègues.
+
+Chaque stagiaire doit à son tour réaliser une présentation sous forme de diaporama, d'une durée allant de 10 à 15 minutes. 
+ À la fin de la présentation, le stagiaire doit répondre aux questions posées par ses collègues.
 
 Sujet libre.  
 
