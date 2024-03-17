@@ -20,11 +20,5 @@ Tableau de passage
 | Emeline  | 12 Avril 2024          |    Réalité artificielle ||
 | Ethan  | 12 Avril 2024          |    Les objets connectés ||
 | *********  | ********* |*******************************************|*******|
-| Kévin |12 Mai 2023          | "L'attaque man in the middle" |✅|
-| Jean-Baptiste  | 12 Mai 2023 | Robot Frame Work |✅|
-| Christian  | 26 Mai 2023 | La Vie  |✅|
-| Maiwenn  | 26 Mai 2023 | Les reptiles |✅|
-| Lucas  | 02 Juin 2023 | Annulé  |❌|
-| Jayson  | 02 juin 2023 | Annulé  |❌|
-| Valentin  | 16 Juin 2023 | Annulé  |❌|
+
 
